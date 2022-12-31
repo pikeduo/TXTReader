@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="/">
+    <file>last.svg</file>
+    <file>next.svg</file>
+    <file>default.svg</file>
+    <file>color.svg</file>
+    <file>font.svg</file>
+    <file>reader.svg</file>
+    <file>close.svg</file>
+    <file>import.svg</file>
+    <file>bg.svg</file>
+    <file>fontcolor.svg</file>
+    <file>catlogs.svg</file>
+    <file>exit.svg</file>
+    <file>setting.svg</file>
+    <file>files.svg</file>
+    <file>file.svg</file>
+    <file>file_last.svg</file>
+    <file>catlog.svg</file>
+  </qresource>
+  <qresource prefix="/img">
+    <file>default.png</file>
+  </qresource>
+</RCC>
