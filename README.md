@@ -6,8 +6,8 @@
 #### 使用说明
 
 1.  打开文件
-![输入图片说明](https://foruda.gitee.com/images/1672466016752980496/71529c85_10577857.png "屏幕截图")
-![展示](https://foruda.gitee.com/images/1672466075884578287/5c416ead_10577857.png "屏幕截图")
+![image](https://user-images.githubusercontent.com/83587154/210290952-b0f4e239-7b56-4845-8dea-e79da36ee3a5.png)
+![image](https://user-images.githubusercontent.com/83587154/210290966-84d0abda-b321-42ef-9380-09c6adfbf35e.png)
 2.  打开最近的文件
 ![输入图片说明](https://foruda.gitee.com/images/1672466143652140050/dc026dc4_10577857.png "屏幕截图")
 3.  设置页面
