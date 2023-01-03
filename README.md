@@ -17,15 +17,14 @@
 4.  切换背景
 ![image](https://user-images.githubusercontent.com/83587154/210291075-1e6f3488-929b-427b-b66f-ccf68e2f8b4d.png)
 5.  切换字体
-![输入图片说明](https://foruda.gitee.com/images/1672466557902708811/040c3784_10577857.png)
+![image](https://user-images.githubusercontent.com/83587154/210291214-5d230e2d-dead-44ff-bd90-1031b31ab0d2.png)
 6.  选择章节
-![章节](https://foruda.gitee.com/images/1672466313833760418/40ab1d80_10577857.png "屏幕截图")
+![image](https://user-images.githubusercontent.com/83587154/210291225-286038af-4da6-418b-8b91-17094a6e04f4.png)
 7.  翻页
-![输入图片说明](https://foruda.gitee.com/images/1672466406169358782/32370cd4_10577857.png "屏幕截图")
+![image](https://user-images.githubusercontent.com/83587154/210291229-9dc2ab58-01b7-49ce-97d7-b8f1b5a0ebfa.png)
 8.  退出页面
-![输入图片说明](https://foruda.gitee.com/images/1672466423806596667/efc835f0_10577857.png "屏幕截图")
-![输入图片说明](https://foruda.gitee.com/images/1672466444649585742/8d60061a_10577857.png "屏幕截图")
-
+![image](https://user-images.githubusercontent.com/83587154/210291242-4b1ff7bb-a186-4185-9d5a-4029064fbba0.png)
+![image](https://user-images.githubusercontent.com/83587154/210291252-5555d514-d2bd-45bc-9107-42852242716a.png)
 
 ### 说明
 图标全部来源于[阿里矢量图标库](https://www.iconfont.cn/)
